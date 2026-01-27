@@ -3,7 +3,8 @@ Welcome to my repository. This repository was created using PostgreSQL and Power
 
 ## Screenshots
 
-![Dashboard Super Store](Building Super Store/Dashboard Image.jpg)
+![Dashboard Super Store](Building%20Super%20Store/Dashboard%20Image.jpg)
+
 
 
 ## Tech Stack
